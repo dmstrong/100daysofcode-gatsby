@@ -18,6 +18,7 @@ module.exports = {
     title: "Full-Stack Bootcamp",
     author: "D.Strong",
   },
+  pathPrefix: "/gatsby-bootcamp",
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sass",
@@ -31,8 +32,8 @@ module.exports = {
     {
       resolve: "gatsby-source-contentful",
       options: {
-        spaceId: process.env.CONTENTFUL_SPACE_ID,
-        accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
+        spaceId: "2y99oto1pu8h",
+        accessToken: "MlHAMjeLShz923FDg0Tj7Cca7frVwuU4yC7bfnqYRgM",
       },
     },
     "gatsby-plugin-sharp",
