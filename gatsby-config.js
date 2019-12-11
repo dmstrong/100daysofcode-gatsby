@@ -18,7 +18,7 @@ module.exports = {
     title: "Full-Stack Bootcamp",
     author: "D.Strong",
   },
-  pathPrefix: "/gatsby-bootcamp",
+  pathPrefix: "/100daysofcode-gatsby",
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sass",
