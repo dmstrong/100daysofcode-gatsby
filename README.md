@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's hello-world starter
+  Gatsby's hello-world starter AND <a href="https://www.youtube.com/watch?v=8t0vNu2fCCM&t=8312s">https://www.youtube.com/watch?v=8t0vNu2fCCM&t=8312s</a>
 </h1>
 
 Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
