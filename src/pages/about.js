@@ -10,7 +10,7 @@ const About = () => {
     <Layout>
     <Head title='About' />
       <h1>About</h1>
-      <p>I am originally from Georgia. Go Dawgs!</p>
+      <p>I am originally from Georgia. Go Yellow Jackets!</p>
       <p>
         Want to work with me? <Link to="/contact">Contact Me</Link>
       </p>
