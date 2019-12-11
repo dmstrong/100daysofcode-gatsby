@@ -56,7 +56,7 @@ const path = require('path')
 //For Contentful Content
 module.exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
-  const blogPostTemplate = path.resolve("./src/templates/blog.js")
+  const blogPostTemplate = path.resolve("./src/templates/Blog.js")
 
   const res = await graphql(`
     query {
