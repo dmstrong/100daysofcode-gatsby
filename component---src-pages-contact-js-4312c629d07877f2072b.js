@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"Cuy+":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),r=n.n(a),l=n("7oih"),o=n("k2JI");t.default=function(){return r.a.createElement(l.a,null,r.a.createElement(o.a,{title:"Contact"}),r.a.createElement("h1",null,"Contact"),r.a.createElement("p",null,"Find me on Twitter:",r.a.createElement("a",{href:"https://twitter.com/_DevthaDude_",target:"_blank",rel:"noopener noreferrer"},"@_DevThaDude_")))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-4312c629d07877f2072b.js.map
